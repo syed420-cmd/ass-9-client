@@ -1,0 +1,98 @@
+[
+  {
+    "estate_title": "Cozy Family Home in Suburbia",
+    "id": "001",
+    "segment_name": "Single-family homes",
+    "description": "A charming single-family home nestled in a quiet neighborhood, perfect for families.",
+    "price": "$350,000",
+    "status": "sale",
+    "area": "2,500 sq ft",
+    "location": "Suburban Meadows",
+    "facilities": [
+      "3 bedrooms",
+      "2 bathrooms",
+      "Backyard"
+    ],
+    "image": "https://i.ibb.co/gDCXw0x/ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo.jpg"
+  },
+  {
+    "estate_title": "Modern Ranch Style House",
+    "id": "002",
+    "segment_name": "Single-family homes",
+    "description": "A sleek and stylish single-family home with spacious interiors and a beautiful garden.",
+    "price": "$450,000",
+    "status": "sale",
+    "area": "3,000 sq ft",
+    "location": "Countryside Estates",
+    "facilities": [
+      "4 bedrooms",
+      "3 bathrooms",
+      "Garage"
+    ],
+    "image": "https://i.ibb.co/RbSSnGR/ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo-1.jpg"
+  },
+  {
+    "estate_title": "Townhouse in Urban Oasis",
+    "id": "101",
+    "segment_name": "Townhouses",
+    "description": "A contemporary townhouse offering urban convenience with modern amenities.",
+    "price": "$280,000",
+    "status": "rent",
+    "area": "1,800 sq ft",
+    "location": "Metro Heights",
+    "facilities": [
+      "2 bedrooms",
+      "2.5 bathrooms",
+      "Roof terrace"
+    ],
+    "image": "https://i.ibb.co/DDwBzjx/ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo-2.jpg"
+  },
+  {
+    "estate_title": "Luxury Townhome with City Views",
+    "id": "102",
+    "segment_name": "Townhouses",
+    "description": "An upscale townhouse featuring panoramic views of the city skyline and luxurious finishes.",
+    "price": "$600,000",
+    "status": "sale",
+    "area": "2,500 sq ft",
+    "location": "Skyline Plaza",
+    "facilities": [
+      "3 bedrooms",
+      "3.5 bathrooms",
+      "Elevator"
+    ],
+    "image": "https://i.ibb.co/dpWs5R2/Site-Image-Landing-contemporary-house-plans-1.webp"
+  },
+  {
+    "estate_title": "Downtown Loft Apartment",
+    "id": "201",
+    "segment_name": "Apartments",
+    "description": "A trendy loft apartment in the heart of the city, featuring exposed brick walls and modern fixtures.",
+    "price": "$500,000",
+    "status": "sale",
+    "area": "1,200 sq ft",
+    "location": "City Center",
+    "facilities": [
+      "Open floor plan",
+      "Balcony",
+      "Gym access"
+    ],
+    "image": "https://i.ibb.co/K5LsjPx/rathinam-front-view-m.jpg"
+  },
+  {
+    "estate_title": "Luxury High-rise Apartment",
+    "id": "202",
+    "segment_name": "Apartments",
+    "description": "A luxurious high-rise apartment offering breathtaking views and top-notch amenities.",
+    "price": "$800,000",
+    "status": "rent",
+    "area": "1,800 sq ft",
+    "location": "Skyline Towers",
+    "facilities": [
+      "Floor-to-ceiling windows",
+      "Concierge service",
+      "Pool"
+    ],
+    "image": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/decor/images/2023/6/1/house-middleclass.jpg"
+  }
+]
